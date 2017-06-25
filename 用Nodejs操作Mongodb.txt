@@ -1,0 +1,9 @@
+1,在当前目录下 安装配置 npm install mongoose --save 搭建mongdb与Nodejs的桥梁。
+
+2 doc www.nodeclass.com/api/mongoose.html
+
+3 mongodb ORM 
+
+4 创建Schema （程序框架),基于数据库的字段
+
+5 在命令行里查看数据的方式：show dbs 查看所有数据库 ==》use 当前数据库名 ==》show collections 查看当前数据库下的所有数据 ==》 db.数据库名.find() 查看所有数据信息
